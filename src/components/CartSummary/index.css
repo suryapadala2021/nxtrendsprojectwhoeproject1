@@ -1,1 +1,30 @@
 /* Write your CSS here */
+.cart-summary {
+  align-self: flex-end;
+}
+.cart-sum {
+  font-family: 'Roboto';
+  color: ' #171f46';
+  font-weight: bold;
+  font-size: 28px;
+  margin-bottom: 0px;
+}
+.cart-sum-value {
+  color: #616e7c;
+  font-weight: 500;
+  font-size: 20px;
+}
+.cart-summary-description {
+  color: #616e7c;
+  font-size: 16px;
+  margin-top: 5px;
+}
+.check-out-btn {
+  font-family: 'Roboto';
+  color: white;
+  background-color: #0b69ff;
+  border: none;
+  border-radius: 5px;
+  height: 30px;
+  width: 100%;
+}

@@ -38,3 +38,11 @@
 }
 
 /* Write your CSS here */
+.remove-all-cart-item-btn {
+  font-family: 'Roboto';
+  color: #0b69ff;
+  background-color: transparent;
+  border: none;
+  align-self: flex-end;
+  font-size: 16px;
+}
